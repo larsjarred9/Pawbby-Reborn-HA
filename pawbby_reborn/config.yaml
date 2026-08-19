@@ -8,7 +8,10 @@ arch:
   - aarch64
 startup: "services"
 boot: "auto"
+# host_network is required to receive local Tuya UDP broadcast packets (port 6666/6667)
 host_network: true
+# Explicitly enable AppArmor for improved security sandboxing
+apparmor: true
 webui: "http://[HOST]:[PORT:3333]"
 environment:
   DATABASE_URL: "file:/data/pawbby.db"
