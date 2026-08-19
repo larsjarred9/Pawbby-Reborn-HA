@@ -3,7 +3,7 @@ description: "Local Tuya device listener and dashboard for Pawbby smart litter b
 version: "0.6.0"
 slug: "pawbby_reborn"
 url: "https://github.com/larsjarred9/Pawbby-Reborn"
-image: "ghcr.io/larsjarred9/pawbby-reborn"
+image: "ghcr.io/larsjarred9/pawbby-reborn-{arch}"
 arch:
   - amd64
   - aarch64
