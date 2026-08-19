@@ -1,9 +1,9 @@
 name: "Pawbby Reborn"
 description: "Local Tuya device listener and dashboard for Pawbby smart litter boxes."
-version: "0.6.0"
+version: "0.6.1"
 slug: "pawbby_reborn"
 url: "https://github.com/larsjarred9/Pawbby-Reborn"
-image: "ghcr.io/larsjarred9/pawbby-reborn-{arch}"
+image: "ghcr.io/larsjarred9/pawbby-reborn"
 arch:
   - amd64
   - aarch64
