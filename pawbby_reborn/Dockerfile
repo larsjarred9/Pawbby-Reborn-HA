@@ -1,2 +1,1 @@
-ARG BUILD_FROM
-FROM ${BUILD_FROM}
+FROM ghcr.io/larsjarred9/pawbby-reborn:latest
