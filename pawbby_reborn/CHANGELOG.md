@@ -1,3 +1,11 @@
+# v0.7.2
+
+## What's Changed
+* 0.7.2 by @larsjarred9 in https://github.com/larsjarred9/Pawbby-Reborn/pull/52
+
+
+**Full Changelog**: https://github.com/larsjarred9/Pawbby-Reborn/compare/v0.7.1...v0.7.2
+
 # v0.7.1
 
 ## What's Changed
