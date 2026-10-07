@@ -1,3 +1,11 @@
+# v0.8.1
+
+## What's Changed
+* Release v0.8.1 — Enhanced MQTT Integration, Clean Cycle Tracking & Hardware Precision by @larsjarred9 in https://github.com/larsjarred9/Pawbby-Reborn/pull/63
+
+
+**Full Changelog**: https://github.com/larsjarred9/Pawbby-Reborn/compare/v0.8.0...v0.8.1
+
 # v0.8.0
 
 ## What's Changed
