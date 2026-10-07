@@ -1,3 +1,15 @@
+# v1.0.0
+
+## What's Changed
+* docs: add MQTT and Home Assistant Event Entity documentation to api-docs by @larsjarred9 in https://github.com/larsjarred9/Pawbby-Reborn/pull/64
+* feat: device settings — auto-clean delay, quiet period, litter type & more (DP 105 decoded) by @quentinhayot in https://github.com/larsjarred9/Pawbby-Reborn/pull/65
+* Version 1.0 by @larsjarred9 in https://github.com/larsjarred9/Pawbby-Reborn/pull/66
+
+## New Contributors
+* @quentinhayot made their first contribution in https://github.com/larsjarred9/Pawbby-Reborn/pull/65
+
+**Full Changelog**: https://github.com/larsjarred9/Pawbby-Reborn/compare/v0.8.1...v1.0.0
+
 # v0.8.1
 
 ## What's Changed
