@@ -1,3 +1,11 @@
+# v1.1.0
+
+## What's Changed
+* 1.1.0 Release by @larsjarred9 in https://github.com/larsjarred9/Pawbby-Reborn/pull/80
+
+
+**Full Changelog**: https://github.com/larsjarred9/Pawbby-Reborn/compare/v1.0.3...v1.1.0
+
 # v1.0.3
 
 ## What's Changed
